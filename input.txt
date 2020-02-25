@@ -1,0 +1,2 @@
+int      a =      7 ,   b = 8 , c = a + b ;  //this is comment
+
